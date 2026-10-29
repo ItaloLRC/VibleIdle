@@ -1,0 +1,145 @@
+{
+  "default": "upgrade_compute",
+  "icons": [
+    {
+      "id": "upgrade_compute",
+      "name": "Token value",
+      "description": "Original gold pixel coin with a mint currency mark.",
+      "color": [
+        221,
+        181,
+        132
+      ],
+      "pixels": [
+        ".....oooooo.....",
+        "...ooyyyyyyoo...",
+        "..oyylllyyyyyo..",
+        ".oyylllyyyyyyyo.",
+        ".oyylymmmmmyyyo.",
+        "oyyyymymmyyyyyyo",
+        "oyyyymymmyyyyyyo",
+        "oyyyyymmmmyyyyyo",
+        "oyyyyyyymmmyyyyo",
+        "oyyyyyymmymyyyyo",
+        "oyyyyyymmymyyyyo",
+        ".oyyyymmmmmyyyo.",
+        ".oyyyyyyyyyyyyo.",
+        "..oyyyyyyyyyyo..",
+        "...ooyyyyyyoo...",
+        ".....oooooo....."
+      ],
+      "palette": {
+        "l": [
+          242,
+          229,
+          190
+        ],
+        "m": [
+          151,
+          196,
+          165
+        ],
+        "o": [
+          166,
+          106,
+          61
+        ],
+        "y": [
+          239,
+          184,
+          77
+        ]
+      }
+    },
+    {
+      "id": "add_layer",
+      "name": "Agent count",
+      "description": "Original trio of terracotta and mint pixel agent faces.",
+      "color": [
+        216,
+        121,
+        89
+      ],
+      "pixels": [
+        "...tttt..tttt...",
+        "..tmmmtttmmmmt..",
+        ".tmmmmmtmmmmmt..",
+        ".tm.m.mtm.m.mt..",
+        ".tmmmmmtmmmmmt..",
+        "..tllmttllmtt...",
+        "...tttt..tttt...",
+        "................",
+        ".....tttttt.....",
+        "....tmmmmmmt....",
+        "...tmmmmmmmmt...",
+        "...tm.mmm.mmt...",
+        "...tmmmmmmmmt...",
+        "....tllllllt....",
+        ".....tttttt.....",
+        "....tt....tt...."
+      ],
+      "palette": {
+        "l": [
+          242,
+          229,
+          190
+        ],
+        "m": [
+          151,
+          196,
+          165
+        ],
+        "t": [
+          205,
+          127,
+          97
+        ]
+      }
+    },
+    {
+      "id": "upgrade_tokens",
+      "name": "Context",
+      "description": "Original violet paper stack with mint context lines.",
+      "color": [
+        151,
+        196,
+        165
+      ],
+      "pixels": [
+        "....vvvvvvvvvv..",
+        "...vllllllllllv.",
+        "..vlllllllllllv.",
+        ".vvvvvvvvvvlllv.",
+        "vllllllllllvllv.",
+        "vllmmmmmlllvllv.",
+        "vllllllllllvllv.",
+        "vllmmmmmmllvllv.",
+        "vllllllllllvllv.",
+        "vllmmmmmmllvllv.",
+        "vllllllllllvllv.",
+        "vllmmmmllvvvvv..",
+        "vllllllllllv....",
+        "vllllllllllv....",
+        ".vvvvvvvvvv.....",
+        "................"
+      ],
+      "palette": {
+        "l": [
+          242,
+          229,
+          190
+        ],
+        "m": [
+          151,
+          196,
+          165
+        ],
+        "v": [
+          151,
+          119,
+          205
+        ]
+      }
+    }
+  ]
+}

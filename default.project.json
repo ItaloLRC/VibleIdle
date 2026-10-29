@@ -1,0 +1,666 @@
+{
+  "name": "VibeIdle",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "$ignoreUnknownInstances": false,
+      "Lab": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": false,
+        "Floor": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              96,
+              1,
+              96
+            ],
+            "Position": [
+              0,
+              -0.5,
+              0
+            ],
+            "Color": [
+              0.035,
+              0.06,
+              0.09
+            ],
+            "Material": "SmoothPlastic"
+          }
+        },
+        "Platform": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              28,
+              1,
+              20
+            ],
+            "Position": [
+              0,
+              0.5,
+              0
+            ],
+            "Color": [
+              0.075,
+              0.12,
+              0.17
+            ],
+            "Material": "SmoothPlastic"
+          }
+        },
+        "BackWall": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              30,
+              13,
+              1
+            ],
+            "Position": [
+              0,
+              6,
+              -10
+            ],
+            "Color": [
+              0.055,
+              0.09,
+              0.14
+            ],
+            "Material": "SmoothPlastic"
+          }
+        },
+        "Console": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              12,
+              2,
+              4
+            ],
+            "Position": [
+              0,
+              2,
+              2
+            ],
+            "Color": [
+              0.11,
+              0.19,
+              0.25
+            ],
+            "Material": "SmoothPlastic"
+          }
+        },
+        "ConsoleScreen": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              10,
+              0.15,
+              3
+            ],
+            "Position": [
+              0,
+              3.1,
+              2
+            ],
+            "Color": [
+              0.18,
+              0.65,
+              0.72
+            ],
+            "Material": "Neon"
+          }
+        },
+        "Rack1": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              3,
+              8,
+              3
+            ],
+            "Position": [
+              -10,
+              4.8,
+              -5
+            ],
+            "Color": [
+              0.07,
+              0.13,
+              0.19
+            ],
+            "Material": "SmoothPlastic"
+          }
+        },
+        "Rack1Light1": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              -10,
+              2.0,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack1Light2": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              -10,
+              3.6,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack1Light3": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              -10,
+              5.2,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack1Light4": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              -10,
+              6.800000000000001,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack2": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              3,
+              8,
+              3
+            ],
+            "Position": [
+              0,
+              4.8,
+              -5
+            ],
+            "Color": [
+              0.07,
+              0.13,
+              0.19
+            ],
+            "Material": "SmoothPlastic"
+          }
+        },
+        "Rack2Light1": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              0,
+              2.0,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack2Light2": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              0,
+              3.6,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack2Light3": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              0,
+              5.2,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack2Light4": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              0,
+              6.800000000000001,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack3": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              3,
+              8,
+              3
+            ],
+            "Position": [
+              10,
+              4.8,
+              -5
+            ],
+            "Color": [
+              0.07,
+              0.13,
+              0.19
+            ],
+            "Material": "SmoothPlastic"
+          }
+        },
+        "Rack3Light1": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              10,
+              2.0,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack3Light2": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              10,
+              3.6,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack3Light3": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              10,
+              5.2,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Rack3Light4": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              2.4,
+              0.18,
+              0.12
+            ],
+            "Position": [
+              10,
+              6.800000000000001,
+              -3.44
+            ],
+            "Color": [
+              0.23,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Edge1": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              28,
+              0.1,
+              0.18
+            ],
+            "Position": [
+              0,
+              1.06,
+              9.7
+            ],
+            "Color": [
+              0.25,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Edge2": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              28,
+              0.1,
+              0.18
+            ],
+            "Position": [
+              0,
+              1.06,
+              -9.7
+            ],
+            "Color": [
+              0.25,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Edge3": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              0.18,
+              0.1,
+              20
+            ],
+            "Position": [
+              -13.7,
+              1.06,
+              0
+            ],
+            "Color": [
+              0.25,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        },
+        "Edge4": {
+          "$className": "Part",
+          "$properties": {
+            "Anchored": true,
+            "Size": [
+              0.18,
+              0.1,
+              20
+            ],
+            "Position": [
+              13.7,
+              1.06,
+              0
+            ],
+            "Color": [
+              0.25,
+              0.8,
+              0.9
+            ],
+            "Material": "Neon",
+            "CanCollide": false
+          }
+        }
+      },
+      "Spawn": {
+        "$className": "SpawnLocation",
+        "$properties": {
+          "Anchored": true,
+          "Neutral": true,
+          "Duration": 0,
+          "Size": [
+            6,
+            1,
+            6
+          ],
+          "Position": [
+            0,
+            1,
+            16
+          ],
+          "Color": [
+            0.1,
+            0.22,
+            0.28
+          ],
+          "Material": "SmoothPlastic"
+        }
+      },
+      "Art": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": false
+      }
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Shared": {
+        "$path": "src/shared"
+      },
+      "Remotes": {
+        "$className": "Folder",
+        "Command": {
+          "$className": "RemoteEvent"
+        },
+        "StateUpdate": {
+          "$className": "RemoteEvent"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Game": {
+        "$path": "src/server"
+      }
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "Tests": {
+        "$className": "Folder",
+        "Specs": {
+          "$path": "tests/Specs.luau"
+        },
+        "PromptSessionSpecs": {
+          "$path": "tests/PromptSessionSpecs.luau"
+        },
+        "CommerceSpecs": {
+          "$path": "tests/CommerceSpecs.luau"
+        }
+      },
+      "Assets": {
+        "$className": "Folder"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "GameClient": {
+          "$path": "src/client"
+        }
+      }
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$properties": {
+        "ClipsDescendantsSupportsRotation": "Enabled"
+      }
+    },
+    "Lighting": {
+      "$className": "Lighting",
+      "$properties": {
+        "Brightness": 2,
+        "ClockTime": 14,
+        "Ambient": [
+          0.16,
+          0.2,
+          0.28
+        ],
+        "OutdoorAmbient": [
+          0.16,
+          0.2,
+          0.28
+        ]
+      }
+    },
+    "SoundService": {
+      "$className": "SoundService"
+    },
+    "Players": {
+      "$className": "Players",
+      "$properties": {
+        "CharacterAutoLoads": false
+      }
+    }
+  }
+}

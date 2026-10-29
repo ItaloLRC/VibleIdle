@@ -1,0 +1,280 @@
+{
+    "default":  "laboratory",
+    "icons":  [
+                  {
+                      "id":  "laboratory",
+                      "name":  "Laboratory",
+                      "description":  "Original pixel laboratory flask with mint solution and colored bubbles.",
+                      "color":  [
+                                    151,
+                                    196,
+                                    165
+                                ],
+                      "palette":  {
+                                      "a":  [
+                                                239,
+                                                184,
+                                                77
+                                            ],
+                                      "c":  [
+                                                132,
+                                                202,
+                                                218
+                                            ],
+                                      "m":  [
+                                                151,
+                                                196,
+                                                165
+                                            ],
+                                      "s":  [
+                                                151,
+                                                119,
+                                                205
+                                            ],
+                                      "w":  [
+                                                242,
+                                                229,
+                                                190
+                                            ]
+                                  },
+                      "pixels":  [
+                                     "....c......a....",
+                                     "................",
+                                     "......wwww......",
+                                     "......s..s......",
+                                     "......s..s......",
+                                     ".....s....s.....",
+                                     "....s......s....",
+                                     "...s..c.....s...",
+                                     "..smmmmmmmcmms..",
+                                     ".smmmammmmmmmms.",
+                                     ".smwmmmmmmmmmms.",
+                                     ".smmmmmmmammmms.",
+                                     ".smmmmmmmmmmmms.",
+                                     "..smmmmmmmmmms..",
+                                     "...ssssssssss...",
+                                     "................"
+                                 ]
+                  },
+                  {
+                      "id":  "cards",
+                      "name":  "Cards",
+                      "description":  "Three sequentially stacked playing cards with a red heart on the front card.",
+                      "color":  [
+                                    216,
+                                    101,
+                                    107
+                                ],
+                      "palette":  {
+                                      "k":  [
+                                                55,
+                                                52,
+                                                65
+                                            ],
+                                      "r":  [
+                                                216,
+                                                101,
+                                                107
+                                            ],
+                                      "s":  [
+                                                151,
+                                                119,
+                                                205
+                                            ],
+                                      "w":  [
+                                                242,
+                                                229,
+                                                190
+                                            ]
+                                  },
+                      "pixels":  [
+                                     "ssssssssss......",
+                                     "srwwwwwwws......",
+                                     "swwssssssssss...",
+                                     "swwskwwwwwwws...",
+                                     "swwswwssssssssss",
+                                     "swwswwsrwwwwwwws",
+                                     "swwswwswwwwwwwws",
+                                     "swwswwswwwwwwwws",
+                                     "swwswwswwrrwrrws",
+                                     "swwswwswrrrrrrrs",
+                                     "swwswwswwrrrrrws",
+                                     "sssswwswwwrrrwws",
+                                     "...swwswwwwrwwws",
+                                     "...sssswwwwwwwws",
+                                     "......swwwwwwwrs",
+                                     "......ssssssssss"
+                                 ]
+                  },
+                  {
+                      "id":  "skill_tree",
+                      "name":  "Skill tree",
+                      "description":  "Original pixel tree with mint leaves, a terracotta trunk and three golden branching skill nodes.",
+                      "color":  [
+                                    151,
+                                    196,
+                                    165
+                                ],
+                      "palette":  {
+                                      "g":  [
+                                                151,
+                                                196,
+                                                165
+                                            ],
+                                      "m":  [
+                                                89,
+                                                148,
+                                                115
+                                            ],
+                                      "h":  [
+                                                202,
+                                                221,
+                                                155
+                                            ],
+                                      "t":  [
+                                                205,
+                                                127,
+                                                97
+                                            ],
+                                      "d":  [
+                                                151,
+                                                91,
+                                                65
+                                            ],
+                                      "y":  [
+                                                239,
+                                                184,
+                                                77
+                                            ]
+                                  },
+                      "pixels":  [
+                                     ".......yy.......",
+                                     ".....ggyymm.....",
+                                     "...gghhgmmmmm...",
+                                     "...ghgggmmmhm...",
+                                     ".gyyggggmmmmyym.",
+                                     ".gyyggggmmmmyym.",
+                                     "..ghhgggmmmhhm..",
+                                     ".gggghhgmhhmhmm.",
+                                     "..gghhttddmmmm..",
+                                     "....ggttddmm....",
+                                     "......ttdd......",
+                                     "......ttdd......",
+                                     "......ttdd......",
+                                     "......ttdd......",
+                                     "....ttttdddd....",
+                                     "................"
+                                 ]
+                  },
+                  {
+                      "id":  "prestige",
+                      "name":  "Prestige",
+                      "description":  "Original pixel prestige chip with an ascending arrow and layered violet rim.",
+                      "color":  [
+                                    239,
+                                    184,
+                                    77
+                                ],
+                      "palette":  {
+                                      "p":  [
+                                                151,
+                                                119,
+                                                205
+                                            ],
+                                      "d":  [
+                                                91,
+                                                69,
+                                                137
+                                            ],
+                                      "a":  [
+                                                239,
+                                                184,
+                                                77
+                                            ],
+                                      "w":  [
+                                                242,
+                                                229,
+                                                190
+                                            ],
+                                      "t":  [
+                                                180,
+                                                112,
+                                                88
+                                            ]
+                                  },
+                      "pixels":  [
+                                     "................",
+                                     ".....pppppp.....",
+                                     "...ppaaaaaapp...",
+                                     "..paaaawwaaaap..",
+                                     "..paaawwwwaaap..",
+                                     "..paawwwwwwaap..",
+                                     "..paaaawwaaaap..",
+                                     "..paaaawwaaaap..",
+                                     "..paaaawwaaaap..",
+                                     "..paaaaaaaaaap..",
+                                     "...ppaaaaaapp...",
+                                     "...ddppppppdd...",
+                                     "....dddddddd....",
+                                     ".....tttttt.....",
+                                     "......tttt......",
+                                     "................"
+                                 ]
+                  },
+                  {
+                      "id":  "robux_shop",
+                      "name":  "Robux shop",
+                      "color":  [
+                                    221,
+                                    181,
+                                    132
+                                ],
+                      "description":  "Original mint and terracotta pixel storefront with a gold gem sign.",
+                      "pixels":  [
+                                     "................",
+                                     ".....aaaaaa.....",
+                                     "....aaawwaaa....",
+                                     "....aawwwwaa....",
+                                     ".....aaaaaa.....",
+                                     "..pppppppppppp..",
+                                     "..tttmmmtttmmm..",
+                                     "..tttmmmtttmmm..",
+                                     "..tttmmmtttmmm..",
+                                     "...p........p...",
+                                     "...p.mm.wwp.p...",
+                                     "...p.mm.wwp.p...",
+                                     "...p.mm.wwp.p...",
+                                     "...p....wwp.p...",
+                                     "...pppppppppp...",
+                                     "................"
+                                 ],
+                      "palette":  {
+                                      "w":  [
+                                                242,
+                                                229,
+                                                190
+                                            ],
+                                      "t":  [
+                                                205,
+                                                127,
+                                                97
+                                            ],
+                                      "p":  [
+                                                151,
+                                                119,
+                                                205
+                                            ],
+                                      "m":  [
+                                                151,
+                                                196,
+                                                165
+                                            ],
+                                      "a":  [
+                                                239,
+                                                184,
+                                                77
+                                            ]
+                                  }
+                  }
+              ]
+}

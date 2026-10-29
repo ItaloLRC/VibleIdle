@@ -1,0 +1,10 @@
+{
+  "archive": "bolas-de-fogo-circulos-pretos.zip",
+  "sha256": "ca6f6eb5a05526686965bce0d006a1c523623dfa89526882761cd196c424b814",
+  "usage": "User-supplied skill button artwork; SVG data only.",
+  "folders": [
+    "01-fogo-baixo",
+    "02-fogo-medio",
+    "03-fogo-alto"
+  ]
+}

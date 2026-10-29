@@ -1,0 +1,43 @@
+{
+  "total_frames": 36,
+  "frames_por_bola": 12,
+  "duracao_frame_ms": 100,
+  "fundo": "transparente",
+  "circulo": {
+    "cor": "#000000",
+    "raio": 13.6,
+    "largura_pixels": 27,
+    "altura_pixels": 27
+  },
+  "frames": {
+    "baixo": [
+      64,
+      64
+    ],
+    "medio": [
+      64,
+      64
+    ],
+    "alto": [
+      64,
+      80
+    ]
+  },
+  "spritesheet": {
+    "celula": [
+      64,
+      80
+    ],
+    "colunas": 12,
+    "linhas": [
+      "01-fogo-baixo",
+      "02-fogo-medio",
+      "03-fogo-alto"
+    ],
+    "offset_baixo_medio": [
+      0,
+      16
+    ]
+  },
+  "fogo_alto": "mesma largura do medio, chama alongada verticalmente em 1.5x; circulo sem escala"
+}

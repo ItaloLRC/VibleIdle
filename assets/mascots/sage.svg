@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="160" viewBox="0 0 16 10" shape-rendering="crispEdges" role="img" aria-labelledby="title description">
+  <title id="title">Sage</title>
+  <desc id="description">An original quiet spell variation of Ember, retaining cutout eyes and a playful pixel body.</desc>
+  <g fill="#eadeb9">
+    <rect x="7" y="0" width="2" height="1" fill="#efb84d"/>
+    <rect x="6" y="1" width="1" height="1" fill="#9777cd"/>
+    <rect x="7" y="1" width="1" height="1" fill="#efb84d"/>
+    <rect x="8" y="1" width="2" height="1" fill="#9777cd"/>
+    <rect x="4" y="2" width="8" height="1" fill="#9777cd"/>
+    <rect x="2" y="3" width="12" height="1" fill="#9777cd"/>
+    <rect x="3" y="4" width="1" height="1" fill="#eadeb9"/>
+    <rect x="5" y="4" width="6" height="1" fill="#eadeb9"/>
+    <rect x="12" y="4" width="1" height="1" fill="#eadeb9"/>
+    <rect x="1" y="5" width="3" height="1" fill="#97c4a5"/>
+    <rect x="4" y="5" width="8" height="2" fill="#eadeb9"/>
+    <rect x="12" y="5" width="3" height="1" fill="#97c4a5"/>
+    <rect x="2" y="6" width="2" height="1" fill="#97c4a5"/>
+    <rect x="12" y="6" width="2" height="1" fill="#97c4a5"/>
+    <rect x="3" y="7" width="1" height="1" fill="#97c4a5"/>
+    <rect x="4" y="7" width="3" height="1" fill="#eadeb9"/>
+    <rect x="7" y="7" width="2" height="1" fill="#efb84d"/>
+    <rect x="9" y="7" width="3" height="1" fill="#eadeb9"/>
+    <rect x="12" y="7" width="1" height="1" fill="#97c4a5"/>
+    <rect x="3" y="8" width="3" height="1" fill="#eadeb9"/>
+    <rect x="10" y="8" width="3" height="1" fill="#eadeb9"/>
+    <rect x="2" y="9" width="4" height="1" fill="#eadeb9"/>
+    <rect x="10" y="9" width="4" height="1" fill="#eadeb9"/>
+  </g>
+</svg>

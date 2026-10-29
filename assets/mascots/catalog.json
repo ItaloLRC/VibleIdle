@@ -1,0 +1,649 @@
+﻿{
+    "default":  "ember",
+    "mascots":  [
+                    {
+                        "id":  "ember",
+                        "name":  "Ember",
+                        "description":  "A friendly terracotta pixel creature with cutout eyes, side arms and four little feet.",
+                        "color":  [
+                                      216,
+                                      121,
+                                      89
+                                  ],
+                        "pixels":  [
+                                       "...##########...",
+                                       "..############..",
+                                       "..##.######.##..",
+                                       "..##.######.##..",
+                                       "################",
+                                       "################",
+                                       "..############..",
+                                       "..############..",
+                                       "...#.#....#.#...",
+                                       "...#.#....#.#..."
+                                   ],
+                        "tagline":  "The original"
+                    },
+                    {
+                        "id":  "sprout",
+                        "name":  "Sprout",
+                        "tagline":  "Garden keeper",
+                        "description":  "An original garden keeper variation of Ember, retaining cutout eyes and a playful pixel body.",
+                        "color":  [
+                                      116,
+                                      185,
+                                      132
+                                  ],
+                        "palette":  {
+                                        "b":  [
+                                                  116,
+                                                  185,
+                                                  132
+                                              ],
+                                        "g":  [
+                                                  151,
+                                                  196,
+                                                  165
+                                              ],
+                                        "h":  [
+                                                  242,
+                                                  229,
+                                                  190
+                                              ],
+                                        "t":  [
+                                                  205,
+                                                  127,
+                                                  97
+                                              ],
+                                        "y":  [
+                                                  239,
+                                                  184,
+                                                  77
+                                              ]
+                                    },
+                        "pixels":  [
+                                       ".......gg.......",
+                                       ".....gyyggg.....",
+                                       "......ggyg......",
+                                       "...bbbbbbbbbb...",
+                                       "..bb.bbbbbb.bb..",
+                                       "bbbhbbbbbbbbhbbb",
+                                       "..bbbbbbbbbbbb..",
+                                       "...bbbbbbbbbb...",
+                                       "...tt......tt...",
+                                       "..ttt......ttt.."
+                                   ]
+                    },
+                    {
+                        "id":  "volt",
+                        "name":  "Volt",
+                        "tagline":  "Live wire",
+                        "description":  "An original live wire variation of Ember, retaining cutout eyes and a playful pixel body.",
+                        "color":  [
+                                      239,
+                                      184,
+                                      77
+                                  ],
+                        "palette":  {
+                                        "b":  [
+                                                  239,
+                                                  184,
+                                                  77
+                                              ],
+                                        "d":  [
+                                                  69,
+                                                  93,
+                                                  106
+                                              ],
+                                        "h":  [
+                                                  242,
+                                                  229,
+                                                  190
+                                              ],
+                                        "t":  [
+                                                  205,
+                                                  127,
+                                                  97
+                                              ]
+                                    },
+                        "pixels":  [
+                                       "..hh........hh..",
+                                       "...hh......hh...",
+                                       "..bttttttttttb..",
+                                       "..bb.bbbbbb.bb..",
+                                       "bbbbbbbhhbbbbbb.",
+                                       ".bbbbbhhhbbbbbbb",
+                                       "..bbbbbhhbbbbb..",
+                                       "...bbbbbhbbbb...",
+                                       "..dd..b..b..dd..",
+                                       "...b..b..b..b..."
+                                   ]
+                    },
+                    {
+                        "id":  "frost",
+                        "name":  "Frost",
+                        "tagline":  "Crystal crown",
+                        "description":  "An original crystal crown variation of Ember, retaining cutout eyes and a playful pixel body.",
+                        "color":  [
+                                      132,
+                                      202,
+                                      218
+                                  ],
+                        "palette":  {
+                                        "b":  [
+                                                  132,
+                                                  202,
+                                                  218
+                                              ],
+                                        "d":  [
+                                                  69,
+                                                  93,
+                                                  106
+                                              ],
+                                        "h":  [
+                                                  242,
+                                                  229,
+                                                  190
+                                              ]
+                                    },
+                        "pixels":  [
+                                       ".....h....h.....",
+                                       "...h.h.hh.h.h...",
+                                       "..bhhhbbbbbbbb..",
+                                       "..bb.bbbbbb.bb..",
+                                       ".bbbbbbbbbbbbbb.",
+                                       "bbhhbbbbbbbbbbbb",
+                                       "..bbbbbbbbbbbb..",
+                                       "...bbbbbbbbbb...",
+                                       "...dd..dd..dd...",
+                                       "....b..bb..b...."
+                                   ]
+                    },
+                    {
+                        "id":  "nebula",
+                        "name":  "Nebula",
+                        "tagline":  "Orbit drifter",
+                        "description":  "An original orbit drifter variation of Ember, retaining cutout eyes and a playful pixel body.",
+                        "color":  [
+                                      151,
+                                      119,
+                                      205
+                                  ],
+                        "palette":  {
+                                        "b":  [
+                                                  151,
+                                                  119,
+                                                  205
+                                              ],
+                                        "g":  [
+                                                  151,
+                                                  196,
+                                                  165
+                                              ],
+                                        "h":  [
+                                                  242,
+                                                  229,
+                                                  190
+                                              ],
+                                        "y":  [
+                                                  239,
+                                                  184,
+                                                  77
+                                              ]
+                                    },
+                        "pixels":  [
+                                       "..y..........y..",
+                                       ".yyy.bbbbbb.yyy.",
+                                       "....bbbbbbbb....",
+                                       "...b.bbbbbb.b...",
+                                       "hhhhbbbbbbbbhhhh",
+                                       ".hhbbbbbbbbbbhh.",
+                                       "...bbbbggbbbb...",
+                                       "....bbbbbbbb....",
+                                       "...b.b....b.b...",
+                                       "..bb.b....b.bb.."
+                                   ]
+                    },
+                    {
+                        "id":  "forge",
+                        "name":  "Forge",
+                        "tagline":  "Armored core",
+                        "description":  "An original armored core variation of Ember, retaining cutout eyes and a playful pixel body.",
+                        "color":  [
+                                      118,
+                                      138,
+                                      154
+                                  ],
+                        "palette":  {
+                                        "b":  [
+                                                  118,
+                                                  138,
+                                                  154
+                                              ],
+                                        "d":  [
+                                                  69,
+                                                  93,
+                                                  106
+                                              ],
+                                        "h":  [
+                                                  242,
+                                                  229,
+                                                  190
+                                              ],
+                                        "t":  [
+                                                  205,
+                                                  127,
+                                                  97
+                                              ],
+                                        "y":  [
+                                                  239,
+                                                  184,
+                                                  77
+                                              ]
+                                    },
+                        "pixels":  [
+                                       "...hhhhhhhhhh...",
+                                       "..bbbbbbbbbbbb..",
+                                       "..dddddddddddd..",
+                                       "..bb.bbbbbb.bb..",
+                                       "tttbbbb..bbbbttt",
+                                       "tttbbbb..bbbbttt",
+                                       "..bbbbyyyybbbb..",
+                                       "..bbbbbyybbbbb..",
+                                       "..bbbb....bbbb..",
+                                       "..dddd....dddd.."
+                                   ]
+                    },
+                    {
+                        "id":  "glitch",
+                        "name":  "Glitch",
+                        "tagline":  "Signal ghost",
+                        "description":  "An original signal ghost variation of Ember, retaining cutout eyes and a playful pixel body.",
+                        "color":  [
+                                      102,
+                                      207,
+                                      195
+                                  ],
+                        "palette":  {
+                                        "b":  [
+                                                  102,
+                                                  207,
+                                                  195
+                                              ],
+                                        "d":  [
+                                                  69,
+                                                  93,
+                                                  106
+                                              ],
+                                        "h":  [
+                                                  242,
+                                                  229,
+                                                  190
+                                              ],
+                                        "p":  [
+                                                  222,
+                                                  123,
+                                                  173
+                                              ]
+                                    },
+                        "pixels":  [
+                                       "...hhbbbbbbb....",
+                                       "..ddddddbbbbhb..",
+                                       "..bb.bbbbbb.bb..",
+                                       "..bb.bbbbbb.bb..",
+                                       "bbbbbbbbbbbbbb.p",
+                                       ".bbbbbbdddddd...",
+                                       "..bbbbbbbbbb.pp.",
+                                       "...bbbbbbbbbb...",
+                                       "..bb.b....b..b..",
+                                       "...p..p...bb...."
+                                   ]
+                    },
+                    {
+                        "id":  "coral",
+                        "name":  "Coral",
+                        "tagline":  "Reef wanderer",
+                        "description":  "An original reef wanderer variation of Ember, retaining cutout eyes and a playful pixel body.",
+                        "color":  [
+                                      221,
+                                      139,
+                                      161
+                                  ],
+                        "palette":  {
+                                        "b":  [
+                                                  221,
+                                                  139,
+                                                  161
+                                              ],
+                                        "h":  [
+                                                  242,
+                                                  229,
+                                                  190
+                                              ],
+                                        "t":  [
+                                                  205,
+                                                  127,
+                                                  97
+                                              ],
+                                        "v":  [
+                                                  151,
+                                                  119,
+                                                  205
+                                              ]
+                                    },
+                        "pixels":  [
+                                       "..h...h..h...h..",
+                                       ".hbh.bhbbhb.hbh.",
+                                       "..bbbbbbbbbbbb..",
+                                       "..bb.bbbbbb.bb..",
+                                       ".tbbbbbbbbbbbbt.",
+                                       "tbbbbbbbbbbbbbbt",
+                                       "..bbtbbbbbbtbb..",
+                                       "...bbbbbbbbbb...",
+                                       "..vv.v....v.vv..",
+                                       "..b..b....b..b.."
+                                   ]
+                    },
+                    {
+                        "id":  "sage",
+                        "name":  "Sage",
+                        "tagline":  "Quiet spell",
+                        "description":  "An original quiet spell variation of Ember, retaining cutout eyes and a playful pixel body.",
+                        "color":  [
+                                      234,
+                                      222,
+                                      185
+                                  ],
+                        "palette":  {
+                                        "b":  [
+                                                  234,
+                                                  222,
+                                                  185
+                                              ],
+                                        "g":  [
+                                                  151,
+                                                  196,
+                                                  165
+                                              ],
+                                        "v":  [
+                                                  151,
+                                                  119,
+                                                  205
+                                              ],
+                                        "y":  [
+                                                  239,
+                                                  184,
+                                                  77
+                                              ]
+                                    },
+                        "pixels":  [
+                                       ".......yy.......",
+                                       "......vyvv......",
+                                       "....vvvvvvvv....",
+                                       "..vvvvvvvvvvvv..",
+                                       "...b.bbbbbb.b...",
+                                       ".gggbbbbbbbbggg.",
+                                       "..ggbbbbbbbbgg..",
+                                       "...gbbbyybbbg...",
+                                       "...bbb....bbb...",
+                                       "..bbbb....bbbb.."
+                                   ]
+                    }
+                ],
+    "rarity_variants":  [
+                            {
+                                "accent":  [
+                                               108,
+                                               183,
+                                               236
+                                           ],
+                                "id":  "rare",
+                                "decorations":  [
+                                                    [
+                                                        1,
+                                                        2
+                                                    ],
+                                                    [
+                                                        14,
+                                                        2
+                                                    ],
+                                                    [
+                                                        1,
+                                                        3
+                                                    ],
+                                                    [
+                                                        14,
+                                                        3
+                                                    ]
+                                                ],
+                                "highlights":  [
+                                                   [
+                                                       3,
+                                                       0
+                                                   ],
+                                                   [
+                                                       12,
+                                                       0
+                                                   ],
+                                                   [
+                                                       3,
+                                                       6
+                                                   ],
+                                                   [
+                                                       12,
+                                                       6
+                                                   ]
+                                               ],
+                                "description":  "Silver side fins and bright armor highlights.",
+                                "tint":  [
+                                             105,
+                                             190,
+                                             246
+                                         ],
+                                "name":  "Rare",
+                                "mix":  0.12,
+                                "tagline":  "Prismatic trim",
+                                "light":  [
+                                              216,
+                                              240,
+                                              255
+                                          ]
+                            },
+                            {
+                                "accent":  [
+                                               158,
+                                               103,
+                                               222
+                                           ],
+                                "id":  "epic",
+                                "decorations":  [
+                                                    [
+                                                        1,
+                                                        1
+                                                    ],
+                                                    [
+                                                        14,
+                                                        1
+                                                    ],
+                                                    [
+                                                        1,
+                                                        2
+                                                    ],
+                                                    [
+                                                        14,
+                                                        2
+                                                    ],
+                                                    [
+                                                        0,
+                                                        3
+                                                    ],
+                                                    [
+                                                        15,
+                                                        3
+                                                    ],
+                                                    [
+                                                        1,
+                                                        6
+                                                    ],
+                                                    [
+                                                        14,
+                                                        6
+                                                    ]
+                                                ],
+                                "highlights":  [
+                                                   [
+                                                       4,
+                                                       0
+                                                   ],
+                                                   [
+                                                       11,
+                                                       0
+                                                   ],
+                                                   [
+                                                       6,
+                                                       4
+                                                   ],
+                                                   [
+                                                       9,
+                                                       4
+                                                   ],
+                                                   [
+                                                       4,
+                                                       7
+                                                   ],
+                                                   [
+                                                       11,
+                                                       7
+                                                   ]
+                                               ],
+                                "description":  "Violet shoulder wings and arcane crystal markings.",
+                                "tint":  [
+                                             194,
+                                             118,
+                                             238
+                                         ],
+                                "name":  "Epic",
+                                "mix":  0.18,
+                                "tagline":  "Arcane guardian",
+                                "light":  [
+                                              245,
+                                              194,
+                                              255
+                                          ]
+                            },
+                            {
+                                "accent":  [
+                                               239,
+                                               178,
+                                               62
+                                           ],
+                                "id":  "legendary",
+                                "decorations":  [
+                                                    [
+                                                        1,
+                                                        0
+                                                    ],
+                                                    [
+                                                        14,
+                                                        0
+                                                    ],
+                                                    [
+                                                        1,
+                                                        1
+                                                    ],
+                                                    [
+                                                        14,
+                                                        1
+                                                    ],
+                                                    [
+                                                        0,
+                                                        2
+                                                    ],
+                                                    [
+                                                        15,
+                                                        2
+                                                    ],
+                                                    [
+                                                        1,
+                                                        2
+                                                    ],
+                                                    [
+                                                        14,
+                                                        2
+                                                    ],
+                                                    [
+                                                        0,
+                                                        3
+                                                    ],
+                                                    [
+                                                        15,
+                                                        3
+                                                    ],
+                                                    [
+                                                        0,
+                                                        6
+                                                    ],
+                                                    [
+                                                        15,
+                                                        6
+                                                    ],
+                                                    [
+                                                        1,
+                                                        7
+                                                    ],
+                                                    [
+                                                        14,
+                                                        7
+                                                    ]
+                                                ],
+                                "highlights":  [
+                                                   [
+                                                       3,
+                                                       0
+                                                   ],
+                                                   [
+                                                       6,
+                                                       0
+                                                   ],
+                                                   [
+                                                       9,
+                                                       0
+                                                   ],
+                                                   [
+                                                       12,
+                                                       0
+                                                   ],
+                                                   [
+                                                       6,
+                                                       4
+                                                   ],
+                                                   [
+                                                       9,
+                                                       4
+                                                   ],
+                                                   [
+                                                       3,
+                                                       7
+                                                   ],
+                                                   [
+                                                       12,
+                                                       7
+                                                   ]
+                                               ],
+                                "description":  "Golden crown points, winged pauldrons and warm jewel highlights.",
+                                "tint":  [
+                                             255,
+                                             204,
+                                             96
+                                         ],
+                                "name":  "Legendary",
+                                "mix":  0.12,
+                                "tagline":  "Crowned ascendant",
+                                "light":  [
+                                              255,
+                                              242,
+                                              179
+                                          ]
+                            }
+                        ]
+}
