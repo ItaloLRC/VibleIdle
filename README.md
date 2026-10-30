@@ -2,7 +2,7 @@
 
 Jogo incremental no Roblox, desenvolvido em Luau, com uma interface de terminais
 e agentes que produzem tokens dentro da economia do jogo. Os agentes são uma
-mecânica simulada: o projeto não depende de APIs de inteligência artificial.
+mecânica simulada de produção e progressão.
 
 ## Capturas do jogo
 
@@ -45,9 +45,8 @@ Orientação para vender os tokens produzidos pelos agentes.
 2. Inicie **Play** e selecione **START/CONTINUE**.
 3. Use **HOW TO PLAY** ou **Guide** para consultar as regras e o tutorial.
 
-No Studio, o modo padrão usa memória e não mantém o progresso entre visitas.
-Os recursos de persistência em nuvem dependem de uma experiência publicada.
-Compras com Robux ficam desativadas na configuração fornecida, com IDs zerados.
+As configurações de persistência e compras com Robux estão documentadas nos
+guias técnicos de lançamento e comércio listados abaixo.
 
 ## Estrutura
 
@@ -88,8 +87,7 @@ simulados. Para verificar somente a estrutura e a exportação:
 python tools/verify.py --structure-only
 ```
 
-Os scripts opcionais de prévia usam Pillow. As prévias aproximam a geometria
-da interface e não substituem uma captura ou validação no Roblox Studio.
+Os scripts opcionais de prévia usam Pillow para gerar imagens da interface.
 
 ## Documentação
 
@@ -98,6 +96,3 @@ da interface e não substituem uma captura ou validação no Roblox Studio.
 - [Persistência e revisão de lançamento](docs/LAUNCH_READINESS.md)
 - [Métricas do jogo](docs/PLAYER_ANALYTICS.md)
 - [Configuração de compras com Robux](docs/ROBux_SETUP.md)
-
-Os testes com serviços simulados não comprovam funcionamento de DataStore,
-Analytics ou Marketplace reais, nem desempenho e interação nativa no Studio.

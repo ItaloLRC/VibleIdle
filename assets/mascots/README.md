@@ -26,7 +26,7 @@ IDs return false and retain the old artwork. Invalid initial IDs fall back to
 the default. STATS has no mascot. The64x40 slot (32x20 in main title) stays16:10;
 different artwork fits centered inside. Parts are reused and excess parts hidden.
 Instances are independent. Choices survive snapshots, purchases and layout during
-the client session. No picker, server/profile fields or input listeners.
+the client session.
 
 SVG is the standalone editable deliverable. Roblox uses the same rectangles as
 native Frames with genuine transparent holes; no upload or image asset is needed.
